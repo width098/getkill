@@ -1,0 +1,5 @@
+shuoming.txt
+#忽略 node_module  文件夹
+/node_modules
+#忽略abc下所有.txt结尾的文件
+/abc/*.txt
